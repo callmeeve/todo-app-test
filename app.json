@@ -22,6 +22,15 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0d37e492-6961-454f-be2b-d0a8dca33f8b"
+      }
+    },
+    "owner": "widi38",
+    "plugins": [
+      "expo-font"
+    ]
   }
 }
